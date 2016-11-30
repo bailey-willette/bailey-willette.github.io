@@ -1,0 +1,27 @@
+body { background: aquamarine;
+		color: black;
+		font-size: 16pt; }
+		
+body { font-family: 'Architects Daughter', sans-serif; } 
+
+h1 { font-size: 350%;
+	font-weight: bold;
+	color: grey }
+h1 { border-bottom: 10px solid white }
+	
+nav li { display: inline-block } 
+nav li { border: 2px solid white }
+nav li {padding: 10px;
+		margin: 5px;
+		background: white }
+		
+a { color: darkred;
+	text-decoration: none }
+a:hover {color: red } 
+
+.title { font-weight: bold;
+			text-decoration: underline; }
+						
+		
+			
+		
